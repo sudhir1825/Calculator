@@ -12,4 +12,4 @@ Screen shot of the web page (Mobile Screen)
 If entered values are not numerical it shows a alert message
 
 
-![image alt]()
+![image alt](https://github.com/sudhir1825/Calculator/blob/6cfa234d95275127d42a3bd66e7d7f98481fe5d7/Screenshot%202025-04-18%20at%201.24.31%20PM.png)
